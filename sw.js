@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alfaza-cell-v2';
+const CACHE_NAME = 'alfaza-cell-v3';
 const urlsToCache = [
   '/',
   '/index.html',
