@@ -1,7 +1,7 @@
 {
   "name": "Alfaza Cell Pro",
   "short_name": "Alfaza",
-  "description": "Aplikasi Kasir Alfaza Cell",
+  "description": "Aplikasi Kasir Alfaza Cell dengan Backup Google Sheets",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#2b67f6",
